@@ -72,8 +72,8 @@ namespace ConsoleAppTest
         {
             if (urlMap.ContainsValue(longUrl))
             {
-                var myKey = urlMap.FirstOrDefault(x => x.Value == longUrl).Key;
-                return myKey; 
+                var key = urlMap.FirstOrDefault(x => x.Value == longUrl).Key;
+                return key; 
             }
             return null;
         }
