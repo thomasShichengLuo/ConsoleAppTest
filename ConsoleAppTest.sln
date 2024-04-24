@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{1F8A135E-E789-493C-88E0-1084935E9271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortenUrlTest", "ShortenUrlTest\ShortenUrlTest.csproj", "{E5F65F5D-9705-49AA-A3BB-DD9CC431DEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F8A135E-E789-493C-88E0-1084935E9271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8A135E-E789-493C-88E0-1084935E9271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8A135E-E789-493C-88E0-1084935E9271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8A135E-E789-493C-88E0-1084935E9271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F65F5D-9705-49AA-A3BB-DD9CC431DEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F65F5D-9705-49AA-A3BB-DD9CC431DEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F65F5D-9705-49AA-A3BB-DD9CC431DEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F65F5D-9705-49AA-A3BB-DD9CC431DEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E658D382-9164-4D87-B7F3-C7EE259C15EE}
+	EndGlobalSection
+EndGlobal
